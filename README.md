@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuriloLima03
-- 👀 I’m interested in web dev,game design
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in web dev,game design, Artifical Inteligence
+- 🌱 I’m currently learning web dev and artifical inteligence!
 
 
 <!---
